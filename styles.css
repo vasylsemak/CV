@@ -1,0 +1,20 @@
+body {
+  background-color: lightcyan;
+}
+
+hr {
+  margin-top: 50px;
+  border-style: dotted none none;
+  border-width: 7px;
+  border-color: silver;
+  width: 10%;
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+  color: cornflowerblue;
+}
+
+h3 {
+  color: cornflowerblue;
+}
